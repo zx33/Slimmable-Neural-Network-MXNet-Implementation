@@ -29,3 +29,7 @@ Scals | Accuracy
 > **train.py** is the code of training which is modified from the Gluon-cv official training code for CIFAR-10.
 > 
 > **train_val_loss.png** is the error curve of the example training process.
+
+## Reference
+
+* Yu J, Yang L, Xu N, et al. Slimmable neural networks. ICLR 2019.
